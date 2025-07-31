@@ -1,12 +1,12 @@
 import { motion } from "framer-motion";
 
 const skills = [
-  { name: "React", icon: "/public/globe.svg", color: "bg-pastelBlue" },
-  { name: "Next.js", icon: "/public/next.svg", color: "bg-pastelPink" },
-  { name: "Node.js", icon: "/public/window.svg", color: "bg-pastelYellow" },
-  { name: "Tailwind", icon: "/public/file.svg", color: "bg-pastelBlue" },
-  { name: "MongoDB", icon: "/public/globe.svg", color: "bg-pastelPink" },
-  { name: "PostgreSQL", icon: "/public/vercel.svg", color: "bg-pastelYellow" },
+  { name: "React", icon: "/globe.svg", color: "bg-pastelBlue" },
+  { name: "Next.js", icon: "/next.svg", color: "bg-pastelPink" },
+  { name: "Node.js", icon: "/window.svg", color: "bg-pastelYellow" },
+  { name: "Tailwind", icon: "/file.svg", color: "bg-pastelBlue" },
+  { name: "MongoDB", icon: "/globe.svg", color: "bg-pastelPink" },
+  { name: "PostgreSQL", icon: "/vercel.svg", color: "bg-pastelYellow" },
 ];
 
 export default function Skills() {

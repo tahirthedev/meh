@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
 const socials = [
-  { name: "GitHub", icon: "/public/file.svg", url: "#" },
-  { name: "LinkedIn", icon: "/public/globe.svg", url: "#" },
+  { name: "GitHub", icon: "/file.svg", url: "#" },
+  { name: "LinkedIn", icon: "/globe.svg", url: "#" },
 ];
 
 export default function Contact() {
